@@ -1,4 +1,3 @@
-/*
 **Data Set:**
 Data set consists of 19 tables associated with a movie rental business.
 
@@ -33,4 +32,3 @@ Leverage SQL skills to extract and analyze data from various tables in the Maven
 6) We would like to understand how much your customers are spending with you, and also to know who your most valuable customers are. Please pull together a list of customer names, their total lifetime rentals, and the sum of all payments you have collected from them. It would be great to see this ordered on total lifetime value, with the most valuable customers at the top of the list.
 7) My partner and I would like to get to know your board of advisors and any current investors. Could you please provide a list of advisor and investor names in one table? Could you please note whether they are an investor or an advisor, and for the investors, it would be good to include which company they work with.
 8) We're interested in how well you have covered the most awarded actors. Of all the actors with three types of awards, for what % of them do we carry a film? And how about for actors with two types of awards? Same questions. Finally, how about actors with just one award?
-*/
